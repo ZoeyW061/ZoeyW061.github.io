@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi there! This is Zhuoyang(Zoey) Wang. I am a Ph.D. student in computer engineering at Clemson University in South Carolina the US, supervised by Dr.Linke Guo. I completed my BEng in University of Electronic Science and Technology of China(UESTC), with a honor degree in University of Glasgow. My research interests lie in the human-centered computing and security, and if you are insterested in my work, please feel free to drop me an email!
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Human-cemtered computing:** cognitive engineering, human computer interaction, human factor engineering
+- **Large Language Model:** NLP, AGI, security
+  
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2024]** I join Clemson University as a first-year Ph.D student. Looking forward to my new journey.
+- **[Jul. 2024]** I have graduated from UESTC! Congratulations!
 
 {% include_relative _includes/publications.md %}
 
