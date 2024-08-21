@@ -17,7 +17,6 @@ Hi there! This is Zhuoyang(Zoey) Wang. I am a Ph.D. student in computer engineer
 - **[Aug. 2024]** I join Clemson University as a first-year Ph.D student. Looking forward to my new journey.
 - **[Jul. 2024]** I have graduated from UESTC! Congratulations!
 
-## Remove ## to add these two parts
-## {% include_relative _includes/publications.md %}
+{% include_relative _includes/publications.md %}
 
-## {% include_relative _includes/services.md %}
+{% include_relative _includes/services.md %}
