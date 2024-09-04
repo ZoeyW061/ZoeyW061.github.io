@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi there! This is Zhuoyang(Zoey) Wang. I am a Ph.D. student in computer engineering at Clemson University in South Carolina the US, supervised by Dr.Linke Guo. I completed my BEng in University of Electronic Science and Technology of China(UESTC), with a joint degree in University of Glasgow. My research interests lie in the human-centered computing and security, and if you are insterested in my work, please feel free to drop me an email!
+Hi there! This is Zhuoyang(Zoey) Wang. I am a Ph.D. student in computer engineering at Clemson University in South Carolina the US, supervised by [Dr.Linke Guo](https://cecas.clemson.edu/~linkeg/index.html). I completed my BEng in University of Electronic Science and Technology of China(UESTC), with a joint degree in University of Glasgow. My research interests lie in the human-centered computing and security, and if you are insterested in my work, please feel free to drop me an email!
 
 ## Research Interests
 
