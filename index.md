@@ -18,7 +18,7 @@ Hi there! This is Zhuoyang(Zoey) Wang. I am a Ph.D. student in computer engineer
 - **[Jul. 2024]** I have graduated from UESTC! Congratulations!
 
 
-## Education
+## Educations
 
 - **Aug. 2024 -  On Going** Ph.D, Computer Engineering, Clemson University
 - **Sep. 2020 - Jul. 2024** B.Eng, Electronic Information Engineering, University of Electronic Science and Technology of China(UESTC)
