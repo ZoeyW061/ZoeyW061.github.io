@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-Hi there! This is Zhuoyang(Zoey) Wang. I am a Ph.D. student in computer engineering at Clemson University in South Carolina the US, supervised by [Dr.Linke Guo](https://cecas.clemson.edu/~linkeg/index.html). I completed my BEng in University of Electronic Science and Technology of China(UESTC), with a joint degree in University of Glasgow. My research interests lie in the human-centered computing and security, and if you are insterested in my work, please feel free to drop me an email!
+Hi there! This is Zhuoyang(Zoey) Wang. I am a Ph.D. student in computer engineering at Clemson University in South Carolina the US, supervised by [Dr.Linke Guo](https://cecas.clemson.edu/~linkeg/index.html). I completed my BEng in University of Electronic Science and Technology of China(UESTC), with a joint degree in University of Glasgow. My research interests lie in the human-centered computing and security in LLMs, and if you are insterested in my work, please feel free to drop me an email!
 
 ## Research Interests
 
 - **Human-centered Computing:** Cognitive Engineering, Human Computer Interaction, Human Factors
-- **Large Language Model:** NLP, AGI, LLM Security
+- **Large Language Model:** AGI, LLM Security, LLM Interpretability, Alignment
   
 
 ## News
@@ -24,3 +24,4 @@ Hi there! This is Zhuoyang(Zoey) Wang. I am a Ph.D. student in computer engineer
 - **Sep. 2020 - Jul. 2024** B.Eng, Electronic Information Engineering, University of Electronic Science and Technology of China(UESTC)
 - **Sep. 2020 - Jul. 2024** B.Eng, Electronics and Electrical Engineering, University of Glasgow
 
+{% include_relative _includes/Notes.md %}
