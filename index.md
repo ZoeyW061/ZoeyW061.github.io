@@ -13,8 +13,8 @@ Hi there! This is Zhuoyang(Zoey) Wang. I am a Ph.D. student in computer engineer
   
 
 ## News
-- **[Jun. 2026]** One first-authored paper was submitted by IEEE CNS 2026!
-- **[Apr. 2026]** One cooperated paper was submitted by ACM CCS 2026, congrats to my labmates Bowei!
+- **[Jun. 2026]** One 1st-authored paper was submitted by IEEE CNS 2026!
+- **[Apr. 2026]** One 2nd-authored paper was submitted by ACM CCS 2026, congrats to my labmate Bowei!
 - **[Aug. 2024]** I join Clemson University as a first-year Ph.D student. Looking forward to my new journey.
 - **[Jul. 2024]** I have graduated from UESTC! Congratulations!
 
