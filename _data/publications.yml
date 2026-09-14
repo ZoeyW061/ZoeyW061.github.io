@@ -4,9 +4,13 @@ main:
     authors: <strong>Zhuoyang Wang,</strong> Gen Li, Bowei Zhang and Linke Guo
     conference_short: CNS 2026
     conference: IEEE Conference on Communications and Network Security 2026
+    image: assets/img/hypo-align.png
+    image_alt: HYPO-Align framework overview
 
 
   - title: "LockSnoop: Eavesdropping Plain-text Keypad Smart Lock Passcode via Electromagnetic Side Channel"
     authors: Bowei Zhang, <strong>Zhuoyang Wang</strong>, Chenxu JIang, Gen Li, Ming Li, Linke Guo
     conference_short: CCS 2026
     conference: The ACM Conference on Computer and Communications Security
+    image: assets/img/locksnoop.png
+    image_alt: LockSnoop electromagnetic side-channel attack overview
